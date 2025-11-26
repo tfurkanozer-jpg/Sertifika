@@ -14,7 +14,7 @@ excel_path = r"C:\Sertifika\SertifikaTakip.xlsx"  # Gerekirse dosya yolunu deği
 SMTP_SERVER = "smtp.office365.com"
 SMTP_PORT = 587
 SMTP_USER = "alert@hedefdisticaret.com"  # Gönderen adres
-SMTP_PASSWORD = "1dtv5nQJ"               # Uygulama şifresi
+SMTP_PASSWORD = "1dtv5nQJ"               # Uygulama şifresiii
 
 
 # Excel dosyasını oku
